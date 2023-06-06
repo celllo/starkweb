@@ -1,5 +1,4 @@
 ## Responsive Live Resume using Flutter for web
 
-Link: https://m-hamzashakeel.github.io/folio
+Link: https://www.linkedin.com/in/celal-erat-a1b444203/?originalSubdomain=tr
 
-<img src="https://user-images.githubusercontent.com/43790152/111952323-c8365280-8b06-11eb-9c65-747b5001340a.PNG">
