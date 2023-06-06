@@ -62,12 +62,10 @@ class Footer extends StatelessWidget {
                 children: [
                   Text(
                     "0(541) 488 48 92",
-                    textAlign: TextAlign.justify,
                     style: GoogleFonts.montserrat(fontWeight: FontWeight.w100),
                   ),
                   Text(
                     "Girne Mahallesi Mustafa Kemal Caddesi No:92 \nAdıyaman/Kahta",
-                    textAlign: TextAlign.justify,
                     style: GoogleFonts.montserrat(fontWeight: FontWeight.w100),
                   ),
                   SizedBox(
