@@ -1,0 +1,23 @@
+{
+    "name": "Stark Sigorta",
+    "short_name": "Stark",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#0175C2",
+    "description": "Sigortada Güvenin Adresi",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/logo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
